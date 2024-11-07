@@ -15,7 +15,7 @@ Tech Stack
 To use the Random Password Generator on your local machine, follow these steps:
 
 1.Clone the repository:
-  git clone https://github.com/yourusername/random-password-generator.git
+  git clone https://github.com/yourusername/random_psd_generator.git
 2.Navigate to the project folder:
   cd random-password-generator
 3.Open index.html in a web browser:
